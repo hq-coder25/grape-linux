@@ -66,3 +66,13 @@ This public showcase is the place for:
 **GRAPE LINUX — Your hardware. A new beginning.**
 
 *Project Ch3stnut · OSIG PMA*
+
+## Engineering record and progress
+
+**Current owner-reported integration estimate (October 28, 2026): 70%**, within a conservative 68–72% range. This is an overall planning estimate, not an independently measured hardware-completeness score. Native hardware mapping and interface integration are in progress.
+
+- [Major and minor milestones](docs/MILESTONES.md)
+- [October 28 native-integration field report and estimate history](docs/journal/2026-10-28-native-integration.md)
+- [Recordkeeping and archive policy](docs/RECORDKEEPING.md)
+
+New results will be dated and supported with tests where available. Historical reports remain accessible through dated corrections and addenda.
