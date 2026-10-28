@@ -16,6 +16,9 @@ This is an engineering story you can follow as it unfolds. We're building toward
 
 **Your hardware. A new beginning.**
 
-⭐ Follow our public showcase: https://github.com/hq-coder25/grape-linux-
+⭐ Follow our public showcase: https://github.com/hq-coder25/grape-linux
 
 *Grape Linux · Project Ch3stnut · OSIG PMA*
+
+
+<!-- 2026-10-28: Updated showcase URL following repository rename; announcement wording otherwise preserved. -->
