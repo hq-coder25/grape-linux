@@ -1,0 +1,7 @@
+# Grape Linux project ownership
+# Default owner for code and documentation reviews.
+* @hq-coder25
+
+# Protected project records and automation configuration
+/docs/ @hq-coder25
+/.github/ @hq-coder25
