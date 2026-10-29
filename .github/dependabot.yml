@@ -1,0 +1,10 @@
+# Dependabot version update checks
+# Checks GitHub Actions references weekly and opens PRs for review.
+# Does not automatically merge or deploy changes.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 3
