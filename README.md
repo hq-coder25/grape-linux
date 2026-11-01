@@ -24,7 +24,9 @@ Our proof-of-concept engineering includes:
 
 Our on-device boot recording captures **Grape OS branding, the Ch3stnut project identity, and a graphical launcher displayed on the iPhone**.
 
-📽️ **Boot video:** A recording has been captured; the public video link will appear here once the media asset is published.
+📽️ **Watch the Grape Linux boot demonstration:** [View the published video on X](https://x.com/xvmboot/status/2116753474591588444). The video is publicly linked here; the MP4 is not yet hosted in this GitHub repository.
+
+**Footage:** Actual iPhone startup and graphical Linux interface. The recording documents a boot demonstration, not independent cold boot or completion of every hardware driver.
 
 📷 **Gallery:** On-device boot and interface screenshots will appear here.
 
